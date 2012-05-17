@@ -1,0 +1,19 @@
+Hello and Welcome to PeerIndex Assestment Day. 
+
+Please find an eclipse project with some code-stubs which you need to fill out. 
+
+The task is to crawl and store as many URLs as possible from our list of URLs. 
+
+Before starting your assessment, please create a new repo git branch called YOURFIRSTNAME+INITIAL,
+if your name is Joe Bloggs, the branch should be called joeb. 
+
+You can find the code in the "src" folder
+
+and you can find the URL data in "resources"
+
+Good luck
+
+-----------------------------------------------------
+Extra task, implement TF-IDF[1] on a sample of URLs from your KeyValue Store.
+
+[1] http://en.wikipedia.org/wiki/Tf*idf
