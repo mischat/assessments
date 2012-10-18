@@ -3,6 +3,8 @@ package net.peerindex.challenge.webcrawler;
 import java.net.URL;
 import java.util.Iterator;
 
+import net.peerindex.challenge.webcrawler.keyvaluestore.KeyValueStore;
+
 /**
  * Make HTTP requests as fast as possible using a stream of URL's as input, and storing
  * the HTTP response in a key value store.
