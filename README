@@ -9,8 +9,6 @@ our list of URLs.
 Before starting your assessment, please FORK this repo on your
 github account. 
 
-If your name is Joe Bloggs, the branch should be called joeb. 
-
 You can find the code in the "src" folder
 
 and you can find the URL data to crawl in "resources"
